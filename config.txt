@@ -1,0 +1,44 @@
+##############################
+##
+##       作者：张澳旗
+##     微信：17600005204
+##   有偿代做、每天自动推送
+##
+##############################
+
+{
+"app_id": "wx97f30004197f6ad0",
+"app_secret": "9e6fa90d0d6bc436ef33f8cc2726bbf7",
+
+"template_id": "1ZiMvJgMHjV5WYjEwq1R0TTBE03B3iDgnxRxtnMND7s",
+"user_id": ["oeku_6mP7oAPvqEMDV6p-7Hcemgw"],
+
+
+"C_ShengFen": "辽宁",
+"C_ChengShi": "本溪",
+"S_XingZuo": "双鱼座",
+
+"S_Love": "2020-12-25",
+"birthday1": "2000-03-09",
+"birthday2": "1996-12-29",
+
+"C_String01": "爱你爱你",
+"C_String02": "可以替换为自己想要的文字 02",
+"C_String03": "可以替换为自己想要的文字 03",
+
+
+# 天气预报
+"API_TQYB":"9271672b2a79073085ba66d4995e2bd3",
+# 星座运势
+"API_XZYS":"9271672b2a79073085ba66d4995e2bd3",
+
+# 早安心语
+"API_ZAXY":"9271672b2a79073085ba66d4995e2bd3",
+# 晚安心语
+"API_WAXY":"9271672b2a79073085ba66d4995e2bd3",
+
+# 舔狗日记
+"API_TGRJ":"9271672b2a79073085ba66d4995e2bd3",
+# 土味情话
+"API_TWQH":"9271672b2a79073085ba66d4995e2bd3"
+}
